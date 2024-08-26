@@ -70,7 +70,7 @@ DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-paginate
   jekyll-sitemap
-  webrick
+  webrick (~> 1.8)
 
 BUNDLED WITH
    1.17.2
