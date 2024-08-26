@@ -1,5 +1,5 @@
-# Scriptor
-> Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
+# Bienvenue sur mon site; JISANG YOO.
+> 이 사이트는 포트폴리오를 위한 사이트 입니다. 
 
 [Live Demo][demo] &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
 
